@@ -17,7 +17,7 @@
 		<java.version>17</java.version>
 		<commons-io.version>2.16.1</commons-io.version>
 		<commons-configuration2.version>2.10.1</commons-configuration2.version>
-		<commons-compress.version>1.26.1</commons-compress.version>
+		<commons-compress.version>1.26.2</commons-compress.version>
 
 		<ossindex-maven-plugin.version>3.2.0</ossindex-maven-plugin.version>
 	</properties>
